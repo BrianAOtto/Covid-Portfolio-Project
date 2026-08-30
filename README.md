@@ -17,7 +17,7 @@ Joins, CTEs, temp tables, window functions, aggregate functions, views, data typ
 SQL Server (T-SQL), Tableau.
 
 ## Dashboard
-Dashboard: View the interactive dashboard on Tableau Public
+**Dashboard:** [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/Covid-19_Global_Data_Analysis/Dashboard)
 
 ## About Me
 I'm Brian Otto, a data analyst and project manager with 20+ years of experience in banking and technology, including 15 years at JPMorgan Chase. I'm building on that foundation with hands-on SQL, Tableau, and Python projects like this one — pursuing certifications (Google Data Analytics, and currently the Salesforce Tableau Data Analyst cert) to formalize and extend those skills.
